@@ -37,7 +37,7 @@ Onboarding of Azure Sentinel is not part of this blog post, however required gui
 
 Add-on Installation in Splunk Enterprise
 
-First download the Azure-Sentinel-add-on-1.0.2 Add-on from Splunk base which allows you to ingest Splunk logs from. Use the following steps to install the app in Splunk.
+First download the Azure-Sentinel-add-on-1.0.2 Add-on from here https://github.com/yokhaldi/SplunkToSentinel/blob/main/Azure-Sentinel-add-on-1.0.2.tgz which allows you to ingest Splunk logs from. Use the following steps to install the app in Splunk.
  
 Login with provided login credentials (username / password) during the installation of Splunk.
 
